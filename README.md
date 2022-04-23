@@ -14,3 +14,6 @@ evil software license - for evil uses only
 - be an organization that profits from suffering
 ### you must
 - use for evil
+
+## is this enforceable
+probably not lol
